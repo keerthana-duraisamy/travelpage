@@ -5,7 +5,7 @@
 }
 body{
     background-color: rgb(148, 177, 140);
-    background-image: url(con1.png);
+    background-image: url(./images/con1.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 126vh;
